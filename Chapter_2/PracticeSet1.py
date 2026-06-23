@@ -15,6 +15,7 @@ print ("remainder is: ", a%b)
 var = input("Enter any var : ") #for this input all will be string, for int, declare int in front of input, similar for float, bool, none
 print ("Type of var : ", type(var))
 
+
 # question 4 = compare 2 operators and check if 1st is greater or not
 
 num1 = 34
