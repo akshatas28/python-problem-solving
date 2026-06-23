@@ -13,3 +13,4 @@ contents=os.listdir(directory_path)
 #printing all folders using loop
 for i in contents:
     print(i)
+    
