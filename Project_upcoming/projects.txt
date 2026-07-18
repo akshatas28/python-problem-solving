@@ -1,3 +1,5 @@
 new projects upcoming that will be covering all the fundamentals I have learned 
 
 new update: currently brushing up required knowledge for building the projects like libraries, any extensions, etc.
+
+on the way to build some of the exciting projects using my knowledge that I have gained
